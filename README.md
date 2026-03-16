@@ -1,2 +1,2 @@
-Realicé mi examen en Mac, estas son las pruebas en Quartus con testbench. 
-El testbench está dentro del proyecto de Quartus
+todos los videos de las prácticas (están muy pesados y no se pueden subir a git)
+https://drive.google.com/drive/folders/1T653ZDFqfnZrfhg9e2roUg1fBr5sUZtK?usp=sharing
